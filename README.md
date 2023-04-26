@@ -1,4 +1,4 @@
-Food Magazine Ratings Analysis with MongoDB & Jupyter Notebook
+## Food Magazine Ratings Analysis with MongoDB & Jupyter Notebook
 
 Evaluating and analyzing ratings data from a Food Magazine, to help provide more information and analysis on where to focus future magazine articles. 
 
